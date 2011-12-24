@@ -1,0 +1,1 @@
+* Project to display random images on a website.
