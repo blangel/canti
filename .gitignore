@@ -1,1 +1,5 @@
+# emacs files
 *.*~
+# go compile artifacts
+*.8
+*.6
